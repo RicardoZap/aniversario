@@ -413,8 +413,9 @@ strong {
 -----------------------------------------*/
 .hero-container {
   background-color: #d9d8d6;
-  background-image: url('../images/hero-cerro3.jpg');
+  background-image: url('../images/hero-cerro2.jpg');
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   border-radius: var(--border-radius-small);
   position: relative;
@@ -651,9 +652,10 @@ strong {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background-image: url('../images/hero-cerro2.jpg');
+  background-image: url('../images/footer.jpg');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  background-position: center;
   padding-top: 150px;
   padding-bottom: 150px;
   text-align: center;
